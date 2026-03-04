@@ -19,14 +19,6 @@ The objective is to:
 - Accounts with abnormal daily activity
 - High-risk scoring logic
 
-## Key Insights
-
-- Identified high-value customers with balances above 50,000
-- Ranked customers within each branch
-- Calculated branch level loan exposure
-- Measured loan default distribution
-- Flagged suspicious transaction patterns
-
 ## SQL Skills Demonstrated
 
 - SELECT
